@@ -20,4 +20,4 @@ const thirdBurger = structuredClone(hamburger);
 */
 
 // Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
-// 3
+// 9, perche' structuredClone crea una copia profonda dell'oggetto hamburger, quindi crea una copia di hamburger, una copia di maker e una copia di restaurant.
