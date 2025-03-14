@@ -31,5 +31,5 @@ console.log(secondBurger.maker.restaurant.name); // ?
 // 1. Senza lanciare il codice, riesci a prevedere cosa viene stampato in console?
 // 2. Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
 
-// 1. "Anonymous Chef", "Chef Hyur", "Hyur's Burgers", "Hyur's II"
+// 1. "Chef Hyur", "Chef Hyur", "Hyur's II", "Hyur's II"
 // 2. 5. hamburger, maker, restaurant, newRestaurant, secondBurger. 
